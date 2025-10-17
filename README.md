@@ -99,7 +99,7 @@ val dynapins = Dynapins(
 
 ```kotlin
 dependencies {
-    implementation("com.freecats:dynapins:1.0.0")
+    implementation("com.freecats:dynapins:0.0.1")
 }
 ```
 
@@ -107,7 +107,7 @@ dependencies {
 
 ```groovy
 dependencies {
-    implementation 'com.freecats:dynapins:1.0.0'
+    implementation 'com.freecats:dynapins:0.0.1'
 }
 ```
 
