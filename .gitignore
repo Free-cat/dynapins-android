@@ -1,0 +1,22 @@
+# Admin UI
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+build/
+.next/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Env
+.env.local
+
+# Maintainer scripts (private monorepo only)
+.maintainer/
